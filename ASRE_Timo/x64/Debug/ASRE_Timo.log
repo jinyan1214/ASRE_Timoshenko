@@ -1,6 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ASRE_Timo2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  pch.cpp
-  dllmain.cpp
-C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timoshenko\ASRE_Timo\ASRE_Timo_functions.h(912,66): warning C4244: '=': conversion from 'Eigen::Index' to 'int', possible loss of data
-     Creating library C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timoshenko\x64\Debug\ASRE_Timo.lib and object C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timoshenko\x64\Debug\ASRE_Timo.exp
-  ASRE_Timo.vcxproj -> C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timoshenko\x64\Debug\ASRE_Timo.dll
