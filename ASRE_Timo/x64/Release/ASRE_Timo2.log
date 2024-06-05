@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timo_compile_test\ASRE_Timo2\ASRE_Timo_functions.h(912,66): warning C4244: '=': conversion from 'Eigen::Index' to 'int', possible loss of data
+     Creating library C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timo_compile_test\x64\Release\ASRE_Timo2.lib and object C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timo_compile_test\x64\Release\ASRE_Timo2.exp
+  Generating code
+  8747 of 8748 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ASRE_Timo2.vcxproj -> C:\Users\Jinyan\Desktop\NGI_GIBV\ASRETimoshenko\ASRE_Timo_compile_test\x64\Release\ASRE_Timo2.dll
